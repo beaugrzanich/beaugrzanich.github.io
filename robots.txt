@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://beaugrzanich.com//sitemap.xml
+Sitemap: https://beaugrzanich.github.io/sitemap.xml
