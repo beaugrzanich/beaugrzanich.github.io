@@ -15,7 +15,6 @@ Whenever I took him to dog parks that summer, I was suprised to find so much com
 
 Recognizing the similarities they all had, the thought came to me that it would be pretty easy to generate horoscopes based off breed tendancies with the help of AI. My long time best friend and business partner, Idan Rafaolovitz agreed. So we made some mock-ups and found a really great developer on Upwork.
 
- 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/astropaws_mockup.jpg" title="The first mock-up of AstroPaws" class="img-fluid rounded z-depth-1" %}
@@ -34,6 +33,6 @@ Contrary to popular sentiment regarding Apple's policing of the App Store, my hi
 
 In it's first 6 months, we added social media-type functionality, letting pet owners add playmates, post pictures, and chat with their friends. We've had over 300 sign-ups as of January 2024.
 
-Our vision is to build a community of pet lovers where people can interact in a fun and engaging way without the big and bad social media empires selling their eyeball space to the highest bidder. You should never get addicted to AstroPaws. There's no reason to continue to fall down the same path of the cigarette industry of the 60's, or porn in the 00's. 
+Our vision is to build a community of pet lovers where people can interact in a fun and engaging way without the big and bad social media empires selling their eyeball space to the highest bidder. You should never get addicted to AstroPaws. There's no reason to continue to fall down the same path of the cigarette industry of the 60's, or porn in the 00's.
 
 I believe that micro-communities funded by the purchase of AI-based features in the way of the future for Social Media. AstroPaws is the first of many as we fight back for our precious time and valuable relationships.
