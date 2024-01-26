@@ -33,6 +33,6 @@ Contrary to popular sentiment regarding Apple's policing of the App Store, my hi
 
 In it's first 6 months, we added social media-type functionality, letting pet owners add playmates, post pictures, and chat with their friends. We've had over 300 sign-ups as of January 2024.
 
-Our vision is to build a community of pet lovers where people can interact in a fun and engaging way without the big and bad social media empires selling their eyeball space to the highest bidder. You should never get addicted to AstroPaws. There's no reason to continue to fall down the same path of the cigarette industry of the 60's, or porn in the 00's.
+Our vision is to build a community of pet lovers where people can interact in a fun and engaging way without the big and bad social media empires selling their eyeball space to the highest bidder. You should never get addicted to AstroPaws. There's no reason to continue to fall down the same path of the cigarette industry of the 60's, the more recent sports gambling industry of the 20's.
 
-I believe that micro-communities funded by the purchase of AI-based features in the way of the future for Social Media. AstroPaws is the first of many as we fight back for our precious time and valuable relationships.
+I believe that micro-communities funded by the purchase of AI-based features is the way of the future for Social Media. AstroPaws is the first of many as we fight back for our precious time and valuable relationships.
