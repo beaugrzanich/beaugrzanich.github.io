@@ -37,4 +37,4 @@ When I finished, I felt a strong desire to get my thoughts down before the bells
 
 My first six episodes I made in 2023, mostly experimenting with the medium and seeing what worked and what did not. They can be listened to on any major podcasting platform. Here's a link if you like. <a href="https://rss.com/podcasts/americanmemoirs/">American Memoirs</a>.
 
-In 2024, Season two is underway, with greater emphasis on bringing on interesting guests, and tying moments of the past to their impact today.
+In 2024, I added two more episodes, one with a guest I admired greatly, and one as a reflection on the election underway. I have no new episodes planned or underway.

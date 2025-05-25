@@ -5,7 +5,7 @@ permalink: /projects/
 description: Summarizations of the work I do or have done
 nav: true
 nav_order: 3
-display_categories: [podcasting, writing, business, fun]
+display_categories: [projects]
 horizontal: false
 ---
 
