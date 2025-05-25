@@ -12,7 +12,7 @@ After publishing The Matriarch, I took about a year off before creativity beckon
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/brother_murder.jpg" title="Concept Art for Brotherly Murder" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/brother_murder.png" title="Concept Art for Brotherly Murder" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
