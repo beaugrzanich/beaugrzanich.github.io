@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 
 I'm obsessed with living a full and meaningful life. Back in 2019, in a period of struggle I committed to living my life according to my 5 'whys' found above.
 
-My 'whys' have guided my decision making for 5 years now. From writing books, to binge reading them, to [Hosting Podcasts](https://www.americanmemoirs.net/) or [Building Apps](https://www.astropaws.dog/), I find myself addicted to the mere essence of life, and the love of the human experience.
+My 'whys' have guided my decision making for 5 years now. From writing books, to binge reading them, to [Hosting Podcasts](https://rss.com/podcasts/americanmemoirs/) or [Building Apps](https://www.astropaws.dog/), I find myself addicted to the mere essence of life, and the love of the human experience.
 
-This website serves as a collection of my endeavours. Collaboration is welcome. Feedback is appreciated. [Support](https://www.patreon.com/AmericanMemoirs) is received with immense gratitude.
+This website serves as a collection of my endeavours. Collaboration is welcome. Feedback is appreciated.
