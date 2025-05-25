@@ -6,7 +6,7 @@ subtitle: <a href='#'>Create</a>. Change. Mentor. Lead. Love.
 
 profile:
   align: right
-  image: prof_pic2.jpeg
+  image: prof_pic2.JPEG
   image_circular: false # crops the image to make it circular
   more_info: <p>Hi there!</p>
     <p>Welcome to my life.</p>
