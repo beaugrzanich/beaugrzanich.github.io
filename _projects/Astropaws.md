@@ -4,7 +4,7 @@ title: AstroPaws
 description: An AI-first pet community for iOS
 img: assets/img/astropaws_logo.jpg
 importance: 3
-category: business
+category: projects
 ---
 
 When OpenAI released ChatGPT 3.5 in 2023, I was amazed. I don't think we have internalized the role that AI can play in society just yet. Being creative has never been easier. A plate has never been able to be this full!

@@ -4,7 +4,7 @@ title: American Memoirs
 description: An American History Podcast
 img: assets/img/american_memoirs.jpg
 importance: 1
-category: podcasting
+category: projects
 related_publications: false
 ---
 

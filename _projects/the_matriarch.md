@@ -4,7 +4,7 @@ title: The Matriarch
 description: A creative inter-generational coming of age story born out of the pain of loss
 img: assets/img/matriarch_cover.jpg
 importance: 2
-category: writing
+category: projects
 giscus_comments: false
 ---
 
