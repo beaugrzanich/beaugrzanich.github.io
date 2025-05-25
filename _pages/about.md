@@ -6,10 +6,10 @@ subtitle: <a href='#'>Create</a>. Change. Mentor. Lead. Love.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Me, my wife and two kids!</p>
+  more_info:
+    <p>Hi there!</p>
 
 news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
