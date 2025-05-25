@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Summarizations of the work I do or have done
+description: Past and Present Projects!
 nav: true
 nav_order: 3
 display_categories: [projects]

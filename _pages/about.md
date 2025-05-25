@@ -9,8 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Me ~ Based in lovely</p>
-    <p>Chicago, Illinois</p>
+    <p>Me, my wife and two kids!</p>
 
 news: false # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -23,3 +22,5 @@ I'm obsessed with living a full and meaningful life. Back in 2019, in a period o
 My 'whys' have guided my decision making for 5 years now. From writing books, to binge reading them, to [Hosting Podcasts](https://rss.com/podcasts/americanmemoirs/) or [Building Apps](https://www.astropaws.dog/), I find myself addicted to the mere essence of life, and the love of the human experience.
 
 This website serves as a collection of my endeavours. Collaboration is welcome. Feedback is appreciated.
+
+Last updated in May 2025!

@@ -3,7 +3,7 @@ layout: page
 title: AstroPaws
 description: An AI-first pet community for iOS
 img: assets/img/astropaws_logo.jpg
-importance: 3
+importance: 4
 category: projects
 ---
 
@@ -32,3 +32,5 @@ The intial development for AstroPaws only took a few weeks. It took 7 rejections
 Contrary to popular sentiment regarding Apple's policing of the App Store, my hindsight view of these rejections was that they were quite helpful. Apple had us develop terms and other legal docs, we built out more useful functionality, and made sure bugs got squashed. These were important, practically free consulting tips that let us put a fun app on a marketplace.
 
 In it's first 6 months, we added social media-type functionality, letting pet owners add playmates, post pictures, and chat with their friends. Almost 500 people have enjoyed our app since.
+
+To monetize our success, we partnered with companies in the pet insurance world to connect our users and website visitors with. We receive a small commission in return. Our annual revenue from these partnerships made this project the first successful revenue business I've made.

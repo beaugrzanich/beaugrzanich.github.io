@@ -3,7 +3,7 @@ layout: page
 title: American Memoirs
 description: An American History Podcast
 img: assets/img/american_memoirs.jpg
-importance: 1
+importance: 2
 category: projects
 related_publications: false
 ---
