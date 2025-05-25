@@ -2,7 +2,7 @@
 layout: page
 title: Brotherly Murder
 description: A murder mystery that cuts deeper than family ties
-img: assets/img/brotherly_murder.jpg
+img: assets/img/brotherly_murder.png
 importance: 1
 category: projects
 giscus_comments: false
